@@ -1,0 +1,3 @@
+user_name = gets.chomp
+puts user_name
+# il faut avec lu le code avant de savoir qu'il faut taper un truc...
